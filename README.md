@@ -1,4 +1,4 @@
-# Can mentalizing interacting shapes lead to Empathy in humans?
+# Can mentalizing interacting shapes lead to empathy in humans?
 
 This project is being carried out during Neuromatch Academy (NMA), 2020. Here is the [link](https://www.youtube.com/watch?v=ZSeQvp-rpTE) to our presentation.
 
@@ -11,7 +11,7 @@ The perceptions of the participants can be directly attributed to the ability to
 
 ## ➌ Dataset and analyses
 - Dataset: 
-Human Connectome Project (Social Cognition dataset), consisting of fMRI data of participants viewing animated videos of shapes (circles, triangles, or squares) either interacting with each other or moving randomly.
+The social cognition dataset of Human Connectome Project (HCP) was used. It consists of fMRI data of participants viewing animated videos of shapes (circles, triangles, or squares) either interacting with each other or moving randomly.
 
 - Analyses:
   - Subtraction Analysis
