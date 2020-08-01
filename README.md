@@ -27,4 +27,6 @@ We observed:
 
 4. The subtraction analysis between the perceived mental and random interactions for the mental condition resulted in relatively high contrast in a region close to the posterior superior temporal sulcus. This is the same region found to be less active for the people having Autism.
 
-It was an amazing experience from figuring out the research question, to diving into the dataset, reframing the hypothesis as and when we gain new insights. Without TA’s and Mentors’ guidance, this project wouldn’t have been possible.
+It was an amazing experience from figuring out the research question, to diving into the dataset, reframing the hypothesis as and when we gain new insights and performing the analysis.
+
+But, without constant support from NMA, whether it’s TA’s helping hand, Mentors’ guidance or the dataset updates and prompt responses from the Neurostars community, this project and tutorials wouldn’t have possible.
