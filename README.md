@@ -1,4 +1,4 @@
-# Social Cognition is involved in viewing interacting shapes!
+# Can mentalizing interacting shapes lead to Empathy in humans?
 
 This project is being carried out during Neuromatch Academy (NMA), 2020. Here is the [link](https://www.youtube.com/watch?v=ZSeQvp-rpTE) to our presentation.
 
