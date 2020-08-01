@@ -1,6 +1,6 @@
 # Social Cognition is involved in viewing interacting shapes!
 
-This project is being carried out during Neuromatch Academy (NMA), 2020. (Here is the [link](https://www.youtube.com/watch?v=ZSeQvp-rpTE) to our presentation)
+This project is being carried out during Neuromatch Academy (NMA), 2020. Here is the [link](https://www.youtube.com/watch?v=ZSeQvp-rpTE) to our presentation.
 
 ## ➊ Scientific questions
 Do people empathize with socially interacting shapes?  What can we relate to when watching different shapes interacting with each other, or can we relate at all? Which brain regions get activated or which neurons do the brain fire when mentalizing with such objects.
