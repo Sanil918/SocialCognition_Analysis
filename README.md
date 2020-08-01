@@ -30,3 +30,6 @@ We observed:
 It was an amazing experience from figuring out the research question, to diving into the dataset, reframing the hypothesis as and when we gain new insights and performing the analysis.
 
 But, without constant support from NMA, whether it’s TA’s helping hand, Mentors’ guidance or the dataset updates and prompt responses from the Neurostars community, this project and tutorials wouldn’t have possible.
+
+Regards,
+Varad Srivastava, Minaxi Goel, Suraj Joshi, Sanil Shrestha
