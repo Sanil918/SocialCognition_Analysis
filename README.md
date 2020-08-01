@@ -10,8 +10,10 @@ The perceptions of the participants can be directly attributed to the ability to
 
 
 ## ➌ Dataset used and analyses performed
-Dataset: Human Connectome Project (Social Cognition dataset), consisting of fMRI data of participants viewing animated videos of shapes (circles, triangles, or squares) either interacting with each other or moving randomly.
+- Dataset: 
+Human Connectome Project (Social Cognition dataset), consisting of fMRI data of participants viewing animated videos of shapes (circles, triangles, or squares) either interacting with each other or moving randomly.
 
+- Analyses:
 1. Subtraction Analysis
 2. Correlation Analysis
 
