@@ -1,21 +1,21 @@
-## Social Cognition is involved in viewing interacting shapes!
+# Social Cognition is involved in viewing interacting shapes!
 
 This project is being carried out during Neuromatch Academy (NMA), 2020.
 
-#➊ Scientific questions
+## ➊ Scientific questions
 Do people empathize with socially interacting shapes?  What can we relate to when watching different shapes interacting with each other, or can we relate at all? Which brain regions get activated or which neurons do the brain fire when mentalizing with such objects.
 
-#➋ Brief scientific background 
+## ➋ Brief scientific background 
 The perceptions of the participants can be directly attributed to the ability to reflect on the emotional and instinctive responses in others often referred to as ‘mentalizing’. However, one concept that goes hand in hand with mentalizing is empathy. 
 
 
-#➌ Dataset used and analyses performed
+## ➌ Dataset used and analyses performed
 Dataset: Human Connectome Project (Social Cognition dataset), consisting of fMRI data of participants viewing animated videos of shapes (circles, triangles, or squares) either interacting with each other or moving randomly.
 
 1. Subtraction Analysis
 2. Correlation Analysis
 
-#➍ Conclusion
+## ➍ Conclusion
 We observed:
 1. Correlations between temporal-parietal-occipital junction, auditory association region, lateral temporal region, and medial-prefrontal cortex, manifesting the underlying connectivity of social cognition.
 
