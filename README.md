@@ -9,7 +9,7 @@ Do people empathize with socially interacting shapes?  What can we relate to whe
 The perceptions of the participants can be directly attributed to the ability to reflect on the emotional and instinctive responses in others often referred to as ‘mentalizing’. However, one concept that goes hand in hand with mentalizing is empathy. 
 
 
-## ➌ Dataset used and analyses performed
+## ➌ Dataset and analyses
 - Dataset: 
 Human Connectome Project (Social Cognition dataset), consisting of fMRI data of participants viewing animated videos of shapes (circles, triangles, or squares) either interacting with each other or moving randomly.
 
