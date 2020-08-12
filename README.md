@@ -1,16 +1,23 @@
 # Can mentalizing interacting shapes lead to empathy in humans?
 
-This project is being carried out during Neuromatch Academy (NMA), 2020. Here is the [link](https://www.youtube.com/watch?v=ZSeQvp-rpTE) to our presentation.
+This project was worked on during Neuromatch Academy (NMA), 2020.  We were mentored by Dr. Marlene Cohen and Dr. Laura Mikula.
+Here is the [link](https://www.youtube.com/watch?v=ZSeQvp-rpTE) to our presentation.
 
-## ➊ Scientific questions
-Do people empathize with socially interacting shapes?  What can we relate to when watching different shapes interacting with each other, or can we relate at all? Which brain regions get activated or which neurons do the brain fire when mentalizing with such objects.
+## What did we study?
+1. Do people empathize with socially interacting shapes?  
+2. Which networks in the brain are associated with empathy?
+3. Is there any kind of correlation among the regions involved in social cognition which leads to empathy? 
+4. Is absence of a task or experimental stimuli (i.e resting state), good control for such tasks? 
 
-## ➋ Brief scientific background 
+## Brief scientific background 
 The perceptions of the participants can be directly attributed to the ability to reflect on the emotional and instinctive responses in others often referred to as ‘mentalizing’. However, one concept that goes hand in hand with mentalizing is empathy. 
 
-## ➌ Method and Analysis
-- Dataset Used: 
-The social cognition dataset of Human Connectome Project (HCP) was used. It consists of fMRI data of participants viewing animated videos of shapes (circles, triangles, or squares) either interacting with each other or moving randomly.
+## Method and Analysis
+### Dataset Used: 
+We used the The Human Connectome Project dataset. In the Social Cognition aspect of the Human Connectome Project dataset, the dataset consists of observations for 339      participants (called subjects). For each subject, BOLD signals are collected for resting state and active state. BOLD signals are observed due to the difference in magnetic properties of oxygenated and deoxygenated blood, which is captured by the MRI machine. 
+
+In the task based fMRI, the data was collected through two runs. In each run, 5 videos with mental and random interaction each of 23 seconds were shown to subjects with a fixation time of 15s between successive videos, and the response for each video from the participant was recorded. Each run had either 2 videos with mental interaction and 3 videos with random interaction or 3 videos with mental interaction and 2 videos with random interactions. The response from participants recorded belonged to one of the three categories: Mental Interaction, Random Movement, and Not sure.
+
 
 - 4 different comparisons
 
