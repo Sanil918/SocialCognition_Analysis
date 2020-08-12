@@ -18,21 +18,25 @@ We used the The Human Connectome Project dataset. In the Social Cognition aspect
 
 In the task based fMRI, the data was collected through two runs. In each run, 5 videos with mental and random interaction each of 23 seconds were shown to subjects with a fixation time of 15s between successive videos, and the response for each video from the participant was recorded. Each run had either 2 videos with mental interaction and 3 videos with random interaction or 3 videos with mental interaction and 2 videos with random interactions. The response from participants recorded belonged to one of the three categories: Mental Interaction, Random Movement, and Not sure.
 
-
+### Analysis 1: Subtraction Analysis 
+- Each comparision contains analysis of three aspects:
+  - Contrasts in Parcels for both hemispheres
+  - Contrasts in network activations for both hemispheres
+  - Visualizing contrasts of activitations in parcels
+  
 - 4 different comparisons
-
+This is the nomenclature that we follow for response of participants and condition of videos:
+![Nomenclature](images/nomen.PNG?raw=true "Title")
   - A. Mental and Random Condition
   - B. True Mental and True Random 
   - C. True Mental and Baseline
   - D. True Mental and Perceived Mental(in mental condition)
   
-- Each comparision contains three common analysis:
-  - Subtraction Analysis
-  - Correlation Analysis
-  - Network
-  - Brain regions
+  
+### Analysis 2: Correlation Analysis for Functional Connectivity
 
-## ➍ Conclusion
+
+## Conclusion
 We observed:
 1. Correlations between temporal-parietal-occipital junction, auditory association region, lateral temporal region, and medial-prefrontal cortex, manifesting the underlying connectivity of social cognition.
 
