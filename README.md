@@ -27,19 +27,19 @@ In the task based fMRI, the data was collected through two runs. In each run, 5 
 - 4 different comparisons <br/> 
 This is the nomenclature that we follow for response of participants and condition of videos:<br/>
 ![Nomenclature](images/nomen.PNG?raw=true "Nomenclature")
-  - A. Mental and Random Classes of Videos
+  - Case A. Mental and Random Classes of Videos
   
   ![Case A](images/A.PNG?raw=true "Case A")
   
-  - B. Resp_M-M and Resp_R-R (Taking Resp_R-R Sate as Control)
+  - Case B. Resp_M-M and Resp_R-R (Taking Resp_R-R Sate as Control)
   
   ![Case A](images/BI.PNG?raw=true "Case B")
   
-  - C. Resp_M-M and Resting State (Taking Resting Sate as Control)
+  - Case C. Resp_M-M and Resting State (Taking Resting Sate as Control)
   
   ![Case C](images/C.PNG?raw=true "Case C")
   
-  - D. Resp_M-M and Res_R-M 
+  - Case D. Resp_M-M and Res_R-M 
   
   ![Case D](images/D.PNG?raw=true "Case D")
   
@@ -69,6 +69,12 @@ We observed:
 It was an amazing experience from figuring out the research question, to diving into the dataset, reframing the hypothesis as and when we gain new insights and performing the analysis.
 
 But, without constant support from NMA, whether it’s TA’s helping hand, Mentors’ guidance or the dataset updates and prompt responses from the Neurostars community, this project and tutorials wouldn’t have possible.
+
+## Back to the Future
+1. The observed finding can be extended to explain the clinical disorders by doing the same experiment with people having autism where it’s assumed that there is reduced social cognition or people having schizophrenia, where there can be increased social cognition, due to visualizing what actually is not there and perceiving an interaction with it.
+
+2. And as we now know, Mentalizing, empathy and mirroring of emotional response are closely related. We’d also try to further investigate if we can comment on the presence of mirror neurons. (Now you get our team name! Isn’t it Ironical?!)
+
 
 Regards,<br/>
 Varad Srivastava, Minaxi Goel, Suraj Joshi, Sanil Shrestha
