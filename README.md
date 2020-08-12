@@ -70,5 +70,5 @@ It was an amazing experience from figuring out the research question, to diving 
 
 But, without constant support from NMA, whether it’s TA’s helping hand, Mentors’ guidance or the dataset updates and prompt responses from the Neurostars community, this project and tutorials wouldn’t have possible.
 
-Regards,
+Regards,<br/>
 Varad Srivastava, Minaxi Goel, Suraj Joshi, Sanil Shrestha
