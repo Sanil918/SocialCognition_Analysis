@@ -28,10 +28,20 @@ In the task based fMRI, the data was collected through two runs. In each run, 5 
 This is the nomenclature that we follow for response of participants and condition of videos:
 ![Nomenclature](images/nomen.PNG?raw=true "Nomenclature")
   - A. Mental and Random Condition
+  
   ![Case A](images/A.PNG?raw=true "Case A")
+  
   - B. True Mental and True Random 
+  
+  ![Case B](images/B.PNG?raw=true "Case B")
+  
   - C. True Mental and Baseline
+  
+  ![Case C](images/C.PNG?raw=true "Case C")
+  
   - D. True Mental and Perceived Mental(in mental condition)
+  
+  ![Case D](images/D.PNG?raw=true "Case D")
   
   
 ### Analysis 2: Correlation Analysis for Functional Connectivity
