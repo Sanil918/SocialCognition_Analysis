@@ -25,7 +25,7 @@ In the task based fMRI, the data was collected through two runs. In each run, 5 
   - Visualizing contrasts of activitations in parcels
   
 - 4 different comparisons <br/>
-This is the nomenclature that we follow for response of participants and condition of videos:
+This is the nomenclature that we follow for response of participants and condition of videos:<br/>
 ![Nomenclature](images/nomen.PNG?raw=true "Nomenclature")
   - A. Mental and Random Condition
   
