@@ -54,7 +54,7 @@ As you can see in the figure (Rightmost), Temporal-parietal-occipital junction w
 (Middle Column) These are contrasts in the activations in the four regions, that were observed when subtraction analysis was performed on the basis of only the class of videos.
 
 (Leftmost Column) There were also three other regions where we observed high activations, dedicated for cognition tasks other than empathy, and hence we excluded them from our analysis, namely : 
-Inferior Frontal Cortex, which is responsible for Attention and Working Memory, Medial Temporal cortex, responsible for Spatial Memory and Long Term Memory, MT+ Complex & Neighbouring Visual Areas which are responsible for visual processing. But, as they are not directly involved in empathy.
+Inferior Frontal Cortex, which is responsible for Attention and Working Memory, Medial Temporal cortex, responsible for Spatial Memory and Long Term Memory, MT+ Complex & Neighbouring Visual Areas which are responsible for visual processing. 
 
 ## Conclusion
 We observed:
