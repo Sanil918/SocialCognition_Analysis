@@ -33,7 +33,7 @@ This is the nomenclature that we follow for response of participants and conditi
   
   - B. Resp_M-M and Resp_R-R (Taking Resp_R-R Sate as Control)
   
- 
+  ![Case A](images/BI.PNG?raw=true "Case B")
   
   - C. Resp_M-M and Resting State (Taking Resting Sate as Control)
   
