@@ -27,19 +27,19 @@ In the task based fMRI, the data was collected through two runs. In each run, 5 
 - 4 different comparisons <br/>
 This is the nomenclature that we follow for response of participants and condition of videos:<br/>
 ![Nomenclature](images/nomen.PNG?raw=true "Nomenclature")
-  - A. Mental and Random Condition
+  - A. Mental and Random Classes of Videos
   
   ![Case A](images/A.PNG?raw=true "Case A")
   
-  - B. True Mental and True Random 
+  - B. Resp_M-M and Resp_R-R
   
   ![Case B](images/B.PNG?raw=true "Case B")
   
-  - C. True Mental and Baseline
+  - C. Resp_M-M and Resting State
   
   ![Case C](images/C.PNG?raw=true "Case C")
   
-  - D. True Mental and Perceived Mental(in mental condition)
+  - D. Resp_M-M and Res_R-M
   
   ![Case D](images/D.PNG?raw=true "Case D")
   
