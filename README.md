@@ -24,7 +24,7 @@ In the task based fMRI, the data was collected through two runs. In each run, 5 
   - Contrasts in network activations for both hemispheres
   - Visualizing contrasts of activitations in parcels
   
-- 4 different comparisons
+- 4 different comparisons-
 This is the nomenclature that we follow for response of participants and condition of videos:
 ![Nomenclature](images/nomen.PNG?raw=true "Nomenclature")
   - A. Mental and Random Condition
@@ -45,7 +45,7 @@ This is the nomenclature that we follow for response of participants and conditi
   
   
 ### Analysis 2: Correlation Analysis for Functional Connectivity
-
+![FC](images/fc.PNG?raw=true "Functional Connectivity Analysis")
 
 ## Conclusion
 We observed:
