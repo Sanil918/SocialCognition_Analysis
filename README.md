@@ -1,4 +1,4 @@
-# Can mentalizing interacting shapes lead to empathy in humans?---------
+# Can mentalizing interacting shapes lead to empathy in humans?
 
 This project was worked on during Neuromatch Academy (NMA), 2020.  We were mentored by Dr. Marlene Cohen and Dr. Laura Mikula.
 Here is the [link](https://www.youtube.com/watch?v=ZSeQvp-rpTE) to our presentation.
@@ -26,8 +26,9 @@ In the task based fMRI, the data was collected through two runs. In each run, 5 
   
 - 4 different comparisons
 This is the nomenclature that we follow for response of participants and condition of videos:
-![Nomenclature](images/nomen.PNG?raw=true "Title")
+![Nomenclature](images/nomen.PNG?raw=true "Nomenclature")
   - A. Mental and Random Condition
+  ![Case A](images/A.PNG?raw=true "Case A")
   - B. True Mental and True Random 
   - C. True Mental and Baseline
   - D. True Mental and Perceived Mental(in mental condition)
