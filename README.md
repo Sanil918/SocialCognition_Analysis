@@ -31,7 +31,7 @@ This is the nomenclature that we follow for response of participants and conditi
   
   ![Case A](images/A.PNG?raw=true "Case A")
   
-  - B. Resp_M-M and Resp_R-R
+  - B. Resp_M-M and Resp_R-R (Taking Resp_R-R Sate as Control)
   
   ![Case B](images/B.PNG?raw=true "Case B")
   
@@ -39,7 +39,7 @@ This is the nomenclature that we follow for response of participants and conditi
   
   ![Case C](images/C.PNG?raw=true "Case C")
   
-  - D. Resp_M-M and Res_R-M (Taking Resp_R-M Sate as Control)
+  - D. Resp_M-M and Res_R-M 
   
   ![Case D](images/D.PNG?raw=true "Case D")
   
