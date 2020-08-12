@@ -1,4 +1,4 @@
-# Can mentalizing interacting shapes lead to empathy in humans?
+# Can mentalizing interacting shapes lead to empathy in humans?---------
 
 This project was worked on during Neuromatch Academy (NMA), 2020.  We were mentored by Dr. Marlene Cohen and Dr. Laura Mikula.
 Here is the [link](https://www.youtube.com/watch?v=ZSeQvp-rpTE) to our presentation.
